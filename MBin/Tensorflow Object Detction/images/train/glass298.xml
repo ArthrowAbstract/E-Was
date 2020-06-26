@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>glass298.jpg</filename>
+	<path>C:\tensorflow\models\research\object_detection\images\train\glass298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>2</ymin>
+			<xmax>411</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
