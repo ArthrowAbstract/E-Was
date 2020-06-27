@@ -1,0 +1,8 @@
+1002.....glass
+964.....plastic
+1176....paper
+820.....metal
+Train.....802 Test.....200
+Train.....772 Test.....192
+Train.....942 Test.....234
+Train.....656 Test.....164
