@@ -1,0 +1,38 @@
+<annotation>
+	<folder>paper</folder>
+	<filename>paper100.jpg</filename>
+	<path>D:\AI CBSE IBM\garbage-classification\Garbage classification\Garbage classification\paper\paper100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>2</ymin>
+			<xmax>206</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>5</ymin>
+			<xmax>511</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
