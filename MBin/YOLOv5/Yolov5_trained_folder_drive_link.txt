@@ -1,0 +1,2 @@
+https://drive.google.com/drive/folders/1ggAMp2is0GBvqJKqkF5FLMVlJCOclyAu?usp=sharing
+The folder contains trained YOLOv5 on custom data.
