@@ -1,6 +1,6 @@
 # Extensive Waste Management System
 
-Recreating the wheel pf waste segregation and collection.
+Recreating the wheel of waste segregation and collection using Artificial Intelligence and IoT.
 
 ## Getting Started
 
