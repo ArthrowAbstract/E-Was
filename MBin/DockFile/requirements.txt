@@ -1,0 +1,8 @@
+# Python dependencies for  application can be declared here and they will be installed in the runtime container.
+opencv-python
+numpy
+matplotlib
+pandas
+scikit-learn
+edgeiq
+python 3.x
