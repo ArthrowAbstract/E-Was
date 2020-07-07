@@ -26,7 +26,7 @@ This repositary contains all the codes used in the IBM project of E-Was.
 
 ## Acknowledgments
 
-* Mr. Rajiv Tyagi
+* Dr. Rajeev Tyagi
 * Ms. Shelly Batra
 * Mr. Jefferey
 * Dhruv Srivastava
