@@ -4,7 +4,7 @@ Recreating the wheel of waste segregation and collection using Artificial Intell
 
 ## Getting Started
 
-This repositary contains all the codes used in the IBM project of E-Was.
+This repositary contains all the codes used in the project of E-Was.
 
 ## Built With Softwares
 
