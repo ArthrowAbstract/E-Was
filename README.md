@@ -18,7 +18,7 @@ This repositary contains all the codes used in the project of E-Was.
 
 ## Authors
 
-* **Devanshu Sinha** - *Contributions* - Object Detection, Structure of BotBin and General Idea
+* **Devanshu Sinha** - *Contributions* - Object Detection and General Idea
 * **Varun Khantwal** - *Contributions* - Complete hardware + IoT Programs
 * **Laksshay Sehrawat** - *Contributions* - Hardware and General Idea
 
